@@ -1,0 +1,3 @@
+mods/data/space-demons/mod.txt
+mods/data/space-demons/space-demons-hard.json
+mods/data/space-demons/space-demons.json

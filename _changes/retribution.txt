@@ -1,0 +1,3 @@
+mods/data/retribution/mod.txt
+mods/data/retribution/retribution-hard.json
+mods/data/retribution/retribution.json

@@ -1,0 +1,7 @@
+mods/data/challengedd/challengedd-fucked.json
+mods/data/challengedd/challengedd-hard.json
+mods/data/challengedd/mod.txt
+mods/songs/challengedd/Voices.ogg
+mods/songs/challengedd/voices.ogg
+mods/songs/challengedd/Inst.ogg
+mods/songs/challengedd/inst.ogg

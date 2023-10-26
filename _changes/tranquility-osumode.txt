@@ -1,0 +1,3 @@
+mods/data/tranquility/mod.txt
+mods/data/tranquility/tranquility-hard.json
+mods/data/tranquility/tranquility.json

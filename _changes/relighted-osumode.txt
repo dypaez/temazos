@@ -1,0 +1,4 @@
+mods/data/relighted/relighted-easy.json
+mods/data/relighted/relighted-hard-final.json
+mods/data/relighted/relighted-hard.json
+mods/data/relighted/relighted.json

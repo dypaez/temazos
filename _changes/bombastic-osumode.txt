@@ -1,0 +1,7 @@
+mods/data/bombastic/bombastic-master.json
+mods/data/bombastic/events.json
+mods/data/bombastic/mod.txt
+mods/songs/bombastic/Voices.ogg
+mods/songs/bombastic/voices.ogg
+mods/songs/bombastic/Inst.ogg
+mods/songs/bombastic/inst.ogg

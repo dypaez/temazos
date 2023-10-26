@@ -1,0 +1,3 @@
+mods/data/vim/mod.txt
+mods/data/vim/vim-hard.json
+mods/data/vim/vim.json

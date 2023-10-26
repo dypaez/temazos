@@ -1,0 +1,3 @@
+mods/data/soul/mod.txt
+mods/data/soul/soul-hard.json
+mods/data/soul/soul.json

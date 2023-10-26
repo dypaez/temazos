@@ -1,0 +1,1 @@
+mods/data/smokebomb/smokebomb.json

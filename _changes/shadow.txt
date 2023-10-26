@@ -1,0 +1,2 @@
+mods/data/shadow/mod.txt
+mods/data/shadow/shadow-hard.json

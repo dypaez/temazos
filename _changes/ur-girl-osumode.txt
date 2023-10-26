@@ -1,0 +1,3 @@
+mods/data/ur-girl/mod.txt
+mods/data/ur-girl/ur-girl-hard.json
+mods/data/ur-girl/ur-girl.json

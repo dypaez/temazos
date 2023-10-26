@@ -1,0 +1,3 @@
+mods/data/zavodila/zavodila-easy.json
+mods/data/zavodila/zavodila-hard.json
+mods/data/zavodila/zavodila.json

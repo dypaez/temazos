@@ -1,0 +1,3 @@
+mods/data/whitroll/whitroll-easy.json
+mods/data/whitroll/whitroll-hard.json
+mods/data/whitroll/whitroll.json

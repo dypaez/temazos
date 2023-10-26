@@ -1,0 +1,3 @@
+mods/data/star-baby/mod.txt
+mods/data/star-baby/star-baby-hard.json
+mods/data/star-baby/star-baby.json

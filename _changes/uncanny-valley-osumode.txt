@@ -1,0 +1,2 @@
+mods/data/uncanny-valley/centernotes.lua
+mods/data/uncanny-valley/uncanny-valley.json

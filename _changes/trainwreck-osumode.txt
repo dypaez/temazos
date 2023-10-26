@@ -1,0 +1,3 @@
+mods/data/trainwreck/events.json
+mods/data/trainwreck/trainwreck-fucked.json
+mods/data/trainwreck/trainwreck-hard.json

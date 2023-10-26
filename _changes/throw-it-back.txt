@@ -1,0 +1,3 @@
+mods/data/throw-it-back/mod.txt
+mods/data/throw-it-back/throw-it-back-hard.json
+mods/data/throw-it-back/throw-it-back.json

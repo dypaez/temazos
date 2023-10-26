@@ -1,0 +1,3 @@
+mods/data/w00f/mod.txt
+mods/data/w00f/w00f-hard.json
+mods/data/w00f/w00f.json

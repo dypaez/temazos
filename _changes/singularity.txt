@@ -1,0 +1,4 @@
+mods/data/singularity/events.json
+mods/data/singularity/singularity-easy.json
+mods/data/singularity/singularity-hard.json
+mods/data/singularity/singularity.json

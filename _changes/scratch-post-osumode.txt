@@ -1,0 +1,4 @@
+mods/data/scratch-post/events.json
+mods/data/scratch-post/scratch-post-easy.json
+mods/data/scratch-post/scratch-post-hard.json
+mods/data/scratch-post/scratch-post.json

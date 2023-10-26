@@ -1,0 +1,3 @@
+mods/data/spice/mod.txt
+mods/data/spice/spice-hard.json
+mods/data/spice/spice.json

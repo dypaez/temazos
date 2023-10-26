@@ -1,0 +1,3 @@
+mods/data/sage/sage-easy.json
+mods/data/sage/sage-hard.json
+mods/data/sage/sage.json

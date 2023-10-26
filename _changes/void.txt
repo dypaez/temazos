@@ -1,0 +1,3 @@
+mods/data/void/mod.txt
+mods/data/void/void-hard.json
+mods/data/void/void.json

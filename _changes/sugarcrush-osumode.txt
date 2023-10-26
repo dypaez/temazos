@@ -1,0 +1,2 @@
+mods/data/sugarcrush/events.json
+mods/data/sugarcrush/sugarcrush.json
